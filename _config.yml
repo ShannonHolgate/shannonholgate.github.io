@@ -1,19 +1,19 @@
-title:            Site Title
-description:      Describe your website here.
+title:            Shannon's Blog
+description:      Technical creativity and interesting finds
 logo:             site-logo.png
-disqus_shortname: 
+disqus_shortname: shannonholgate
 #Comment out url when working locally to resolve base urls correctly
-url:              http://your-website.com
+url:              http://shannonholgate.github.io
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Shannon Holgate
   avatar:         bio-photo.jpg
-  email:          you@email.com
+  email:          sholgate1305@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
+  twitter:        twitter.com/sholgate13
   facebook:       
-  github:         
+  github:         github.com/ShannonHolgate
   stackexchange:  
   linkedin:       
   instagram:      
@@ -35,16 +35,13 @@ links:
     url: /about
   - title: Articles
     url: /articles
-  - title: Theme Setup
-    url: /theme-setup
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
+  - title: Portfolio
+    url: /portfolio
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
 future:      true
-pygments:    true
+pygments:    false
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
