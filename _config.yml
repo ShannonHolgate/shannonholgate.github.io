@@ -1,7 +1,7 @@
 title:            Shannon's Blog
 description:      Technical creativity and interesting finds
 logo:             site-logo.png
-disqus_shortname: shannonholgate
+disqus_shortname: shannonholgatesblog
 #Comment out url when working locally to resolve base urls correctly
 url:              http://shannonholgate.github.io
 
