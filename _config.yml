@@ -3,24 +3,24 @@ description:      Technical creativity and interesting finds
 logo:             site-logo.png
 disqus_shortname: shannonholgatesblog
 #Comment out url when working locally to resolve base urls correctly
-url:              http://shannonholgate.github.io
+#url:              http://shannonholgate.github.io
 
 # Owner/author information
 owner:
   name:           Shannon Holgate
-  avatar:         bio-photo.jpg
+  avatar:         portrait-200-200.jpg
   email:          sholgate1305@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        twitter.com/sholgate13
   facebook:       
   github:         github.com/ShannonHolgate
   stackexchange:  
-  linkedin:       
+  linkedin:       http://www.linkedin.com/pub/shannon-holgate/67/8a8/8a7
   instagram:      
   flickr:         
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    
+  google_plus:    https://plus.google.com/110511679166205111076
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   
@@ -39,7 +39,7 @@ links:
     url: /portfolio
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Europe/London
 future:      true
 pygments:    false
 markdown:    kramdown
