@@ -1,6 +1,6 @@
 title:            Shannon's Blog
 description:      Technical creativity and interesting finds
-logo:             site-logo.png
+logo:             SH-logo-final.png
 disqus_shortname: shannonholgatesblog
 #Comment out url when working locally to resolve base urls correctly
 #url:              http://shannonholgate.github.io
@@ -35,8 +35,6 @@ links:
     url: /about
   - title: Articles
     url: /articles
-  - title: Portfolio
-    url: /portfolio
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/London

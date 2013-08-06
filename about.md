@@ -8,7 +8,7 @@ image:
 ---
 My name is Shannon Holgate, I'm a Financial Engineering student from Northern Ireland. Currently I'm on my work placement at Kainos Software Ltd in Belfast where I am employed as a Software Engineer. My role at Kainos mostly involves writing client side code with a few exceptions where I do some server side stuff like writing SQL procedures and mapping the results set from them. I also get the opportunity to get involved in some R&D projects where I can learn some new technologies such as Ruby, Azure and MongoDB then apply what I've learn't.
 
-Aside from my Kainos placement I like to keep busy with any other opportunities I can get my hands on. Up until now I've kept busy creating a couple of iOS apps which you can read about in my [Portfolio]. I'm also keen to get involved competitions and any further development I can get my hands on.
+Aside from my Kainos placement I like to keep busy with any other opportunities I can get my hands on. Up until now I've kept busy creating a couple of iOS apps. I'm also keen to get involved competitions and any further development I can get my hands on.
 
 ### Kainos App Camp
 ![Smithsonian Image]({{ site.url }}/images/no-brainer-20degree.png)
@@ -27,7 +27,6 @@ More recently I've been involved in teaching secondary school students how to bu
 
 In the future I may end up following my degree and move into the financial side of Computer Scicence by building something new and more efficient for the Stock Markets of the world. Although, for now, I will persue my creativity by creating random, useful applications to solve some of the simpler problems of everyday life.
 
-[Portfolio]: {{ site.url }}/Portfolio/index.html
 [No.Brainer]: https://itunes.apple.com/gb/app/no.-brainer/id456877051?mt=8
 [Kainos App Camp]: http://appcamp.co.uk/
 [Imagine Cup]: http://www.imaginecup.com/

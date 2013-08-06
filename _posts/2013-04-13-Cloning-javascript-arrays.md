@@ -9,7 +9,7 @@ comments: true
 
 <figure>
 	<img src="/images/star-wars-clones-large.jpg">
-	<figcaption>Clones, clones everywhere.</figcaption>
+	<figcaption>Clones, Clones everywhere.</figcaption>
 </figure>
 
 I found myself researching this quite recently when faced with a bit of a random problem in my current project.
@@ -17,7 +17,7 @@ My magical problem first appeared when I changed an element in one array which c
 
 ### What I thought
 
-<pre class="code-box"><code class="language-javascript">/**
+<pre><code class="language-javascript">/**
 * How NOT to do it
 **/
 var carArray = ["Fiat","Vauxhaull","Toyota"];
@@ -25,11 +25,11 @@ var newCarArray = carArray;</code></pre>
 
 It turns out that this only copies the pointer to the old array, which makes sense now that I've actually found out what was wrong (hindsight is a wonderful thing).
 
-## The truth
+### The truth
 
 To get things right we should explicitly clone the array. There are a few different approaches that many web developers take to this but the simplest uses the *Array.splice()* function. *Array.splice()* is used to delete elements at certain indices in an array, we can leverage this to return an entire array by simply passing 0 as the first argument. 0 works because there is nothing at index 0, so the full array is returned.
 
-<pre class="code-box"><code class="language-javascript">/**
+<pre><code class="language-javascript">/**
 * How to do it quickly and correct
 **/
 var carArray = ["Fiat","Vauxhaull","Toyota"];
