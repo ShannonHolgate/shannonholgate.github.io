@@ -25,7 +25,7 @@ Back at university, I got involved with an [Imagine Cup] team. I mentored team S
 ### Elswhere...
 More recently I've been involved in teaching secondary school students how to build simple Android apps using Google's App Inventor software. This was a fun and very rewarding challenge as the couple of teams I taught grew more proficient each day and eventually presented their apps to the judges. It was inspirational to see what junior students could do in such a short space of time.
 
-In the future I may end up following my degree and move into the financial side of Computer Scicence by building something new and more efficient for the Stock Markets of the world. Although, for now, I will persue my creativity by creating random, useful applications to solve some of the simpler problems of everyday life.
+In the future I may end up following my degree and move into the financial side of Computer Science by building something new and more efficient for the Stock Markets of the world. Although, for now, I will persue my creativity by creating random, useful applications to solve some of the simpler problems of everyday life.
 
 [No.Brainer]: https://itunes.apple.com/gb/app/no.-brainer/id456877051?mt=8
 [Kainos App Camp]: http://appcamp.co.uk/
