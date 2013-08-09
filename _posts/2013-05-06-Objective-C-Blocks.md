@@ -47,7 +47,7 @@ Lets break this down into each part:
 * <code class="language-clike">(int num1, int num2)</code>	Input parameter list to match the definition
 * <code class="language-clike">{return num1 + num2};</code>	Block body, this acts just like a function body
 
-Note: This block *is* still an **anonymous block**, by saying the block has a name we are merely saying the name *references* an **anonymous block**
+Note: This block is still an **anonymous block**, by saying the block has a name we are merely saying the name **references** an **anonymous block**
 
 That’s it! It looks complicated but if you break it down and look at the block like a function you can make sense of it pretty quickly.
 Have a look at [Declaring iOS blocks] in the developer library to further explain what I have talked about here.
@@ -200,7 +200,8 @@ static User *currentUser;
         * This method uses makes use of a callback block which we 
         * define ourselves. In this case I want to get each message
         * and store it in a local array to use later.
-
+        **/
+        
         [currentUser.messages 
         		enumerateObjectsUsingBlock:^(id obj, BOOL *stop){
             Message *message = obj;
