@@ -1,0 +1,12 @@
+---
+layout: page
+permalink: /katie/index.html
+title: Project Katie
+description: "Project Katie - 100% authentic, unrelated, Petrol Head blog about my Ford Focus ST"
+---
+
+<ul class="post-list">
+{% for post in site.categories.katie %} 
+  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>
+{% endfor %}
+</ul>

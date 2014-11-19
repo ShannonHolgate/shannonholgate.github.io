@@ -3,7 +3,7 @@ description:      Technical creativity and interesting finds
 logo:             SH-logo-final.png
 disqus_shortname: shannonholgatesblog
 #Comment out url when working locally to resolve base urls correctly
-url:              http://www.shannonholgate.com
+#url:              http://www.shannonholgate.com
 
 # Owner/author information
 owner:
@@ -31,10 +31,16 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
+  - title: Latest
+    url: /
+  - title: Soft Dev
+    url: /softdev
+  - title: Hadoop
+    url: /hadoop
+  - title: Project Katie
+    url: /katie
   - title: About
     url: /about
-  - title: Articles
-    url: /articles
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/London

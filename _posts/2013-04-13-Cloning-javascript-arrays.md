@@ -2,7 +2,7 @@
 layout: post
 title: "Cloning Javascript arrays"
 description: "A short explanation on how to clone Javascript arrays"
-category: articles
+category: softdev
 tags: [Javascript]
 comments: true
 ---

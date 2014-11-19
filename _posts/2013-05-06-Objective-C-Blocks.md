@@ -2,7 +2,7 @@
 layout: post
 title: "Objective-C Blocks"
 description: "Quick guide on using blocks in Objective-C"
-category: articles
+category: softdev
 tags: [Objective-C]
 comments: true
 ---
