@@ -12,28 +12,28 @@ owner:
   email:          sholgate1305@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        sholgate13
-  facebook:       
+  facebook:
   github:         ShannonHolgate
-  stackexchange:  
+  stackexchange:
   linkedin:       shannonholgate
-  instagram:      
-  flickr:         
-  tumblr:         
+  instagram:
+  flickr:
+  tumblr:
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    https://plus.google.com/110511679166205111076
 
 # Analytics and webmaster tools stuff goes here
-google_analytics: UA-40540308-2  
-google_verify:      
+google_analytics: UA-40540308-2
+google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
+bing_verify:
 
 # Links to include in top navigation
 # For external links add external: true
 links:
   - title: Latest
     url: /
-  - title: Soft Dev
+  - title: Development
     url: /softdev
   - title: Hadoop
     url: /hadoop
@@ -59,7 +59,7 @@ kramdown:
   use_coderay: false
 
   coderay:
-    coderay_line_numbers: 
+    coderay_line_numbers:
     coderay_line_numbers_start: 1
     coderay_tab_width: 4
     coderay_bold_every: 10
@@ -67,3 +67,10 @@ kramdown:
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec"]
+
+flickr:
+  cache_dir:       "./_cache/flickr"
+  api_key:          959200eb8e173f602d1d3526ccf6fe46
+  shared_secret:    a5522f7b70f76a54
+  access_token:     72157648954077137-4f14ea8a3bb8d5fe
+  access_secret:    35b52db82016fb22
